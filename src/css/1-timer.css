@@ -1,0 +1,18 @@
+@import url('flatpickr/dist/flatpickr.min.css');
+
+.timer {
+  display: flex;
+  max-width: max-content;
+  margin: 20px 20px;
+}
+
+.field {
+  position: relative;
+  min-width: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-bottom: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
