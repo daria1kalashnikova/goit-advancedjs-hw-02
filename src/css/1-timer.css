@@ -1,4 +1,5 @@
 @import url('flatpickr/dist/flatpickr.min.css');
+@import url('izitoast/dist/css/iziToast.min.css');
 
 .timer {
   display: flex;
